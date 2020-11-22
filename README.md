@@ -4,20 +4,20 @@
 <!--
 **fr33aks/fr334aks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h3 align="center">A group of passionate CTF players from Kenya.</h3>
+<h3 align="center">A team of passionate CTF and Infosec Enthusiasts from Africa.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fr334aks" alt="fr334aks" /> </p>
 
-- 🔭 We are currently working on CTFs.
+- 🔭 Learning through CTFs is our primary goal,winning is a secondary goal.
 
-- 👨‍💻 All of our writeups and projects are available at [https://github.com/fr334aks](https://github.com/fr334aks)
+- 👨‍💻 some of our writeups and projects are available at [https://github.com/fr334aks](https://github.com/fr334aks)
 
 - 📝 We regulary write articles on [https://github.com/fr334aks](https://github.com/fr334aks)
 
-- 💬 Ask us about **CTFs,Pentesting,Cybersec,etc**
+- 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc**
 
 - 📫 How to reach us **https://ctftime.org/team/83289**, **https://ctftime.org/team/83289**.
 
-- ⚡ Fun fact ** Oolisikia wapi!.**
+- ⚡ Fun fact ** #IWDWD!.**
 
 - Follow us:
 
