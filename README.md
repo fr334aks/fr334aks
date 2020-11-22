@@ -15,7 +15,7 @@
 
 - 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc**
 
-- 📫 How to reach us **https://ctftime.org/team/83289**, **https://ctftime.org/team/83289**.
+- 📫 How to reach us **https://ctftime.org/team/112710**, **https://ctftime.org/team/112710**.
 
 - ⚡ Fun fact ** #IWDWD!.**
 
