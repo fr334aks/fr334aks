@@ -13,7 +13,7 @@
 
 - 📝 We regulary write articles on [https://github.com/fr334aks](fr334aks)
 
-- 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc**
+- 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc
 
 - ⚡ Slogan ** #IWDWD!.**
 
