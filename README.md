@@ -9,13 +9,11 @@
 
 - 🔭 Learning through CTFs is our primary goal,winning is a secondary goal.
 
-- 👨‍💻 some of our writeups and projects are available at [https://github.com/fr334aks](https://github.com/fr334aks)
+- 👨‍💻 some of our writeups and projects are available at [https://github.com/fr334aks](fr334aks)
 
 - 📝 We regulary write articles on [https://github.com/fr334aks](fr334aks)
 
 - 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc**
-
-- 📫 How to reach us **https://ctftime.org/team/112710**, **fr334aks**.
 
 - ⚡ Slogan ** #IWDWD!.**
 
