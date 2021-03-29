@@ -15,7 +15,7 @@
 
 - 💬 Ask us about **CTFs,Pentesting,Bug Bounties,etc**
 
-- 📫 How to reach us **https://ctftime.org/team/112710**, **https://ctftime.org/team/112710**.
+- 📫 How to reach us **https://ctftime.org/team/112710**, **fr334aks**.
 
 - ⚡ Slogan ** #IWDWD!.**
 
